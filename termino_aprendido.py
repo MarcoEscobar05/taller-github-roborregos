@@ -1,0 +1,1 @@
+print("aprendi lo que es un commit, que es como guardar una copia de los cambios que hemos hecho")
