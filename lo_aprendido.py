@@ -1,0 +1,1 @@
+print("mas que nada aprendia a usar github de una buena forma")
